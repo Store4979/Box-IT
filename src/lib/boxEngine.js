@@ -97,6 +97,15 @@ function findTelescopingSolution({ boxes, reqDims, minOverlap = 6, maxAlternates
   const active = (boxes || []).filter(b => b.is_active !== false);
   if (active.length === 0) return null;
 
+  // Store rule: telescoping must use "like boxes" (two of the same box size).
+  // Identify a box by SKU/ID if present; otherwise by its raw dimensions.
+  const boxKey = (box) => {
+    const sku = box?.sku ?? box?.id ?? box?.name;
+    if (sku) return String(sku);
+    const d = boxDimsOf(box);
+    return d.map(n => Number(n).toFixed(2)).join('x');
+  };
+
   // We will treat reqDims as [reqL, reqW, reqH] (not sorted). We'll allow rotations by permuting req dims.
   const reqPerms = getPermutations3(reqDims);
 
@@ -127,6 +136,12 @@ function findTelescopingSolution({ boxes, reqDims, minOverlap = 6, maxAlternates
       const A = orientedBoxes[i];
       for (let j = i; j < orientedBoxes.length; j++) {
         const B = orientedBoxes[j];
+
+        // Like-box rule: only allow telescoping with two of the same box size.
+        if (boxKey(A.box) !== boxKey(B.box)) continue;
+
+        // Enforce like-box telescoping: only allow two of the same box.
+        if (boxKey(A.box) !== boxKey(B.box)) continue;
 
         // Cross-sections must be compatible to telescope. We allow some mismatch but the smaller must fit inside the larger.
         const aCross = [A.orientation.crossA, A.orientation.crossB].sort((x, y) => y - x);
