@@ -1,0 +1,371 @@
+[
+  {
+    "id": "89d4355c",
+    "name": "6x6x6",
+    "length": 6.0,
+    "width": 6.0,
+    "height": 6.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "3e8e3f93",
+    "name": "12x6x6",
+    "length": 12.0,
+    "width": 6.0,
+    "height": 6.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "2a552b92",
+    "name": "10x10x5",
+    "length": 10.0,
+    "width": 10.0,
+    "height": 5.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "48df0d7f",
+    "name": "8x8x8",
+    "length": 8.0,
+    "width": 8.0,
+    "height": 8.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "8c6d1cf5",
+    "name": "12x10x6",
+    "length": 12.0,
+    "width": 10.0,
+    "height": 6.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "04151b9e",
+    "name": "12x12x6",
+    "length": 12.0,
+    "width": 12.0,
+    "height": 6.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "693a4854",
+    "name": "10x10x10",
+    "length": 10.0,
+    "width": 10.0,
+    "height": 10.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "2fc56323",
+    "name": "16x16x4",
+    "length": 16.0,
+    "width": 16.0,
+    "height": 4.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "d8669f69",
+    "name": "12x10x10",
+    "length": 12.0,
+    "width": 10.0,
+    "height": 10.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "2ffed232",
+    "name": "14x10x10",
+    "length": 14.0,
+    "width": 10.0,
+    "height": 10.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "ededc646",
+    "name": "17x11x8",
+    "length": 17.0,
+    "width": 11.0,
+    "height": 8.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "5e1f36c4",
+    "name": "14x14x8",
+    "length": 14.0,
+    "width": 14.0,
+    "height": 8.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "849225dc",
+    "name": "12x12x12",
+    "length": 12.0,
+    "width": 12.0,
+    "height": 12.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "109f5a25",
+    "name": "6x6x48",
+    "length": 6.0,
+    "width": 6.0,
+    "height": 48.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "4be275d0",
+    "name": "15x12x10",
+    "length": 15.0,
+    "width": 12.0,
+    "height": 10.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "b5b904d8",
+    "name": "16x12x12",
+    "length": 16.0,
+    "width": 12.0,
+    "height": 12.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "c1283914",
+    "name": "24x6x18",
+    "length": 24.0,
+    "width": 6.0,
+    "height": 18.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "a2b15b21",
+    "name": "14x14x14",
+    "length": 14.0,
+    "width": 14.0,
+    "height": 14.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "068b22df",
+    "name": "20x12x12",
+    "length": 20.0,
+    "width": 12.0,
+    "height": 12.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "c3d83195",
+    "name": "16x16x16",
+    "length": 16.0,
+    "width": 16.0,
+    "height": 16.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "1eac2809",
+    "name": "30x14x10",
+    "length": 30.0,
+    "width": 14.0,
+    "height": 10.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "52d616f7",
+    "name": "30x6x24",
+    "length": 30.0,
+    "width": 6.0,
+    "height": 24.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "086f48b3",
+    "name": "20x15x15",
+    "length": 20.0,
+    "width": 15.0,
+    "height": 15.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "d850f531",
+    "name": "24x16x12",
+    "length": 24.0,
+    "width": 16.0,
+    "height": 12.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "1e839dcc",
+    "name": "20x20x12",
+    "length": 20.0,
+    "width": 20.0,
+    "height": 12.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "b2346dbd",
+    "name": "10x10x48",
+    "length": 10.0,
+    "width": 10.0,
+    "height": 48.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "2942d1e5",
+    "name": "18x18x18",
+    "length": 18.0,
+    "width": 18.0,
+    "height": 18.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "52d2b25c",
+    "name": "24x18x18",
+    "length": 24.0,
+    "width": 18.0,
+    "height": 18.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "156f970d",
+    "name": "20x20x20",
+    "length": 20.0,
+    "width": 20.0,
+    "height": 20.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "0ef8d2ad",
+    "name": "32x6x42",
+    "length": 32.0,
+    "width": 6.0,
+    "height": 42.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "526ea780",
+    "name": "30x17x16",
+    "length": 30.0,
+    "width": 17.0,
+    "height": 16.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "1e9d6cc9",
+    "name": "36x8x30",
+    "length": 36.0,
+    "width": 8.0,
+    "height": 30.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "c0902de6",
+    "name": "24x24x16",
+    "length": 24.0,
+    "width": 24.0,
+    "height": 16.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "5213796f",
+    "name": "36x16x16",
+    "length": 36.0,
+    "width": 16.0,
+    "height": 16.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "5a3355fc",
+    "name": "20x10x50",
+    "length": 20.0,
+    "width": 10.0,
+    "height": 50.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "ac848744",
+    "name": "15x15x48",
+    "length": 15.0,
+    "width": 15.0,
+    "height": 48.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "a4a95ced",
+    "name": "53x7x30",
+    "length": 53.0,
+    "width": 7.0,
+    "height": 30.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "8b84dd93",
+    "name": "24x24x24",
+    "length": 24.0,
+    "width": 24.0,
+    "height": 24.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "aa4553b6",
+    "name": "30x30x16",
+    "length": 30.0,
+    "width": 30.0,
+    "height": 16.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "add961d6",
+    "name": "35x22x22",
+    "length": 35.0,
+    "width": 22.0,
+    "height": 22.0,
+    "cost": null,
+    "is_active": true
+  },
+  {
+    "id": "478ddb70",
+    "name": "28x28x48",
+    "length": 28.0,
+    "width": 28.0,
+    "height": 48.0,
+    "cost": null,
+    "is_active": true
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "1abf2fe9",
+    "name": "Basic 1-10 lbs",
+    "sensitivity": "basic",
+    "weight_min": 1,
+    "weight_max": 10,
+    "min_padding": 0.0,
+    "box_strength": "150-lb",
+    "double_wall": false,
+    "materials": [
+      "Appropriate corrugated box for weight rating",
+      "Poly bag (for soft goods) when needed",
+      "Void fill as needed to prevent movement",
+      "3\" carton tape using six-strip (H-taping) method"
+    ],
+    "notes": "Employee choice / void fill only. Ensure the item cannot shift inside the box."
+  },
+  {
+    "id": "43c34674",
+    "name": "Standard 1-10 lbs",
+    "sensitivity": "standard",
+    "weight_min": 1,
+    "weight_max": 10,
+    "min_padding": 1.0,
+    "box_strength": "150-lb",
+    "double_wall": false,
+    "materials": [
+      "Appropriate corrugated box for weight rating",
+      "Poly bag when needed",
+      "Two layers of large bubble wrap or inflatable air cushioning",
+      "Void fill as needed to prevent movement",
+      "3\" carton tape using six-strip (H-taping) method"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "a7d8aa38",
+    "name": "Fragile 1-10 lbs",
+    "sensitivity": "fragile",
+    "weight_min": 1,
+    "weight_max": 10,
+    "min_padding": 2.0,
+    "box_strength": "150-lb",
+    "double_wall": false,
+    "materials": [
+      "Appropriate corrugated box for weight rating",
+      "Poly bag when needed",
+      "One layer of small bubble wrap or foamwrap",
+      "Two layers of large bubble wrap or inflatable air cushioning",
+      "Void fill as needed to prevent movement",
+      "Corrugate dividers if packing multiple items/layers",
+      "3\" carton tape using six-strip (H-taping) method"
+    ],
+    "notes": "Minimum 2\" clearance on all sides for fragile items."
+  },
+  {
+    "id": "520f8a92",
+    "name": "Custom 1-10 lbs",
+    "sensitivity": "custom",
+    "weight_min": 1,
+    "weight_max": 10,
+    "min_padding": 3.0,
+    "box_strength": "150-lb",
+    "double_wall": true,
+    "materials": [
+      "Appropriate corrugated box for weight rating",
+      "Poly bag when needed",
+      "1\" foam plank on all six sides (inside the box)",
+      "One layer of small bubble wrap or foamwrap",
+      "Two layers of large bubble wrap or inflatable air cushioning",
+      "Void fill as needed to prevent movement",
+      "3\" carton tape using six-strip (H-taping) method"
+    ],
+    "notes": "Minimum 3\" clearance on all sides. Custom packing may be required for irregular or high-value items."
+  },
+  {
+    "id": "d394e427",
+    "name": "Basic 11-40 lbs",
+    "sensitivity": "basic",
+    "weight_min": 11,
+    "weight_max": 40,
+    "min_padding": 0.0,
+    "box_strength": "200-lb",
+    "double_wall": false,
+    "materials": [
+      "Appropriate corrugated box for weight rating",
+      "Poly bag (for soft goods) when needed",
+      "Void fill as needed to prevent movement",
+      "3\" carton tape using six-strip (H-taping) method"
+    ],
+    "notes": "Employee choice / void fill only. Ensure the item cannot shift inside the box."
+  },
+  {
+    "id": "34c21685",
+    "name": "Standard 11-40 lbs",
+    "sensitivity": "standard",
+    "weight_min": 11,
+    "weight_max": 40,
+    "min_padding": 2.0,
+    "box_strength": "200-lb",
+    "double_wall": false,
+    "materials": [
+      "Appropriate corrugated box for weight rating",
+      "Poly bag when needed",
+      "Two layers of large bubble wrap or inflatable air cushioning",
+      "Void fill as needed to prevent movement",
+      "3\" carton tape using six-strip (H-taping) method"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "3452c6cd",
+    "name": "Fragile 11-40 lbs",
+    "sensitivity": "fragile",
+    "weight_min": 11,
+    "weight_max": 40,
+    "min_padding": 2.0,
+    "box_strength": "200-lb",
+    "double_wall": false,
+    "materials": [
+      "Appropriate corrugated box for weight rating",
+      "Poly bag when needed",
+      "One layer of small bubble wrap or foamwrap",
+      "Two layers of large bubble wrap or inflatable air cushioning",
+      "Void fill as needed to prevent movement",
+      "Corrugate dividers if packing multiple items/layers",
+      "3\" carton tape using six-strip (H-taping) method"
+    ],
+    "notes": "Minimum 2\" clearance on all sides for fragile items."
+  },
+  {
+    "id": "90e0e731",
+    "name": "Custom 11-40 lbs",
+    "sensitivity": "custom",
+    "weight_min": 11,
+    "weight_max": 40,
+    "min_padding": 3.0,
+    "box_strength": "200-lb",
+    "double_wall": true,
+    "materials": [
+      "Appropriate corrugated box for weight rating",
+      "Poly bag when needed",
+      "1\" foam plank on all six sides (inside the box)",
+      "One layer of small bubble wrap or foamwrap",
+      "Two layers of large bubble wrap or inflatable air cushioning",
+      "Void fill as needed to prevent movement",
+      "3\" carton tape using six-strip (H-taping) method"
+    ],
+    "notes": "Minimum 3\" clearance on all sides. Custom packing may be required for irregular or high-value items."
+  },
+  {
+    "id": "09840e41",
+    "name": "Basic 41-70 lbs",
+    "sensitivity": "basic",
+    "weight_min": 41,
+    "weight_max": 70,
+    "min_padding": 0.0,
+    "box_strength": "275-lb",
+    "double_wall": false,
+    "materials": [
+      "Appropriate corrugated box for weight rating",
+      "Poly bag (for soft goods) when needed",
+      "Void fill as needed to prevent movement",
+      "3\" carton tape using six-strip (H-taping) method"
+    ],
+    "notes": "Employee choice / void fill only. Ensure the item cannot shift inside the box."
+  },
+  {
+    "id": "8c900d72",
+    "name": "Standard 41-70 lbs",
+    "sensitivity": "standard",
+    "weight_min": 41,
+    "weight_max": 70,
+    "min_padding": 2.0,
+    "box_strength": "275-lb",
+    "double_wall": false,
+    "materials": [
+      "Appropriate corrugated box for weight rating",
+      "Poly bag when needed",
+      "Two layers of large bubble wrap or inflatable air cushioning",
+      "Void fill as needed to prevent movement",
+      "3\" carton tape using six-strip (H-taping) method"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "afeeba2f",
+    "name": "Fragile 41-70 lbs",
+    "sensitivity": "fragile",
+    "weight_min": 41,
+    "weight_max": 70,
+    "min_padding": 2.0,
+    "box_strength": "275-lb",
+    "double_wall": false,
+    "materials": [
+      "Appropriate corrugated box for weight rating",
+      "Poly bag when needed",
+      "One layer of small bubble wrap or foamwrap",
+      "Two layers of large bubble wrap or inflatable air cushioning",
+      "Void fill as needed to prevent movement",
+      "Corrugate dividers if packing multiple items/layers",
+      "3\" carton tape using six-strip (H-taping) method"
+    ],
+    "notes": "Minimum 2\" clearance on all sides for fragile items."
+  },
+  {
+    "id": "a00bd6c9",
+    "name": "Custom 41-70 lbs",
+    "sensitivity": "custom",
+    "weight_min": 41,
+    "weight_max": 70,
+    "min_padding": 3.0,
+    "box_strength": "275-lb",
+    "double_wall": true,
+    "materials": [
+      "Appropriate corrugated box for weight rating",
+      "Poly bag when needed",
+      "1\" foam plank on all six sides (inside the box)",
+      "One layer of small bubble wrap or foamwrap",
+      "Two layers of large bubble wrap or inflatable air cushioning",
+      "Void fill as needed to prevent movement",
+      "3\" carton tape using six-strip (H-taping) method"
+    ],
+    "notes": "Minimum 3\" clearance on all sides. Custom packing may be required for irregular or high-value items."
+  },
+  {
+    "id": "8791defe",
+    "name": "Basic 71-150 lbs",
+    "sensitivity": "basic",
+    "weight_min": 71,
+    "weight_max": 150,
+    "min_padding": 0.0,
+    "box_strength": "350-lb",
+    "double_wall": true,
+    "materials": [
+      "Appropriate corrugated box for weight rating",
+      "Poly bag (for soft goods) when needed",
+      "Void fill as needed to prevent movement",
+      "3\" carton tape using six-strip (H-taping) method"
+    ],
+    "notes": "Employee choice / void fill only. Ensure the item cannot shift inside the box."
+  },
+  {
+    "id": "2e0a2596",
+    "name": "Standard 71-150 lbs",
+    "sensitivity": "standard",
+    "weight_min": 71,
+    "weight_max": 150,
+    "min_padding": 2.0,
+    "box_strength": "350-lb",
+    "double_wall": true,
+    "materials": [
+      "Appropriate corrugated box for weight rating",
+      "Poly bag when needed",
+      "Two layers of large bubble wrap or inflatable air cushioning",
+      "Void fill as needed to prevent movement",
+      "3\" carton tape using six-strip (H-taping) method"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "40fb24c6",
+    "name": "Fragile 71-150 lbs",
+    "sensitivity": "fragile",
+    "weight_min": 71,
+    "weight_max": 150,
+    "min_padding": 2.0,
+    "box_strength": "350-lb",
+    "double_wall": true,
+    "materials": [
+      "Appropriate corrugated box for weight rating",
+      "Poly bag when needed",
+      "One layer of small bubble wrap or foamwrap",
+      "Two layers of large bubble wrap or inflatable air cushioning",
+      "Void fill as needed to prevent movement",
+      "Corrugate dividers if packing multiple items/layers",
+      "3\" carton tape using six-strip (H-taping) method"
+    ],
+    "notes": "Minimum 2\" clearance on all sides for fragile items."
+  },
+  {
+    "id": "f5d139b9",
+    "name": "Custom 71-150 lbs",
+    "sensitivity": "custom",
+    "weight_min": 71,
+    "weight_max": 150,
+    "min_padding": 3.0,
+    "box_strength": "350-lb",
+    "double_wall": true,
+    "materials": [
+      "Appropriate corrugated box for weight rating",
+      "Poly bag when needed",
+      "1\" foam plank on all six sides (inside the box)",
+      "One layer of small bubble wrap or foamwrap",
+      "Two layers of large bubble wrap or inflatable air cushioning",
+      "Void fill as needed to prevent movement",
+      "3\" carton tape using six-strip (H-taping) method"
+    ],
+    "notes": "Minimum 3\" clearance on all sides. Custom packing may be required for irregular or high-value items."
+  }
+]
